@@ -1,2 +1,2 @@
 # My Teams Project
-Чебурек
+чебурек
